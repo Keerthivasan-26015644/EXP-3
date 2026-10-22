@@ -50,6 +50,7 @@ Cross connection: CIRCUIT DIAGRAM:
 <img width="1067" height="557" alt="Screenshot 2026-10-22 190810" src="https://github.com/user-attachments/assets/3bdd61bb-94c0-4a5f-b64b-eadb8736b373" />
 
 Tabulation:2
+
 <img width="913" height="1280" alt="ex32" src="https://github.com/user-attachments/assets/cb4c417f-d606-4f84-ab71-605119ff8e30" />
 
 RESULT:
